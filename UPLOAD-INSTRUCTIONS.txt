@@ -1,0 +1,5 @@
+UPLOAD ALL FILES IN THIS FOLDER DIRECTLY TO THE ROOT OF YOUR GITHUB REPOSITORY.
+
+Keep your existing CNAME file.
+Upload index.html, styles.css, script.js, favicon.svg, and every .webp image.
+GitHub will replace matching files automatically.
