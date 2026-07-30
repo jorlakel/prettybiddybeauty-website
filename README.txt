@@ -1,30 +1,12 @@
-PrettyBiddyBeauty Luxury Website — Updated July 2026
+PRETTYBIDDYBEAUTY — PRODUCTION WEBSITE
 
-This version includes the current public Booksy service menu and prices:
-30 Min Baddie Touch Up $50
-Classic Full Set $110
-Classic Fill $60
-Wet Full Set Lashes $170
-Wet Fill $85
-Angel Wispy Full Set $200
-Angel Wispy Fill $95
-Hybrid (Mixed) Full Set $160
-Hybrid Fill $70
-Volume Full Set $180
-Volume Fill $80
-Mega Volume $240
-Mega Volume Fill $90
-Bottom Lashes $55
-Color Lashes $20
-Lash Removal starting at $50
-Brow Tint $20
-Extra Deep Lash Bath $20
-Eyebrow Lamination $60
-Korean Lash Lift $105
+Upload index.html, styles.css, script.js, and the entire assets folder to the root of your GitHub repository.
 
-UPLOAD TO GITHUB
-1. Open the prettybiddybeauty-website repository.
-2. Click Add file, then Upload files.
-3. Upload index.html, styles.css, script.js, and the assets folder.
-4. Commit directly to the main branch.
-5. Wait 1–3 minutes and refresh prettybiddybeauty.com.
+Booksy: https://prettybiddybeauty.booksy.com/
+Instagram: https://www.instagram.com/prettybiddybeauty/
+
+Note: The three review cards use polished placeholder wording. Replace them later with exact verified client reviews if desired.
+
+NEW VIP OFFER
+Complimentary UV lash upgrade ($50 value) for new clients booking any full set.
+The top banner, hero button, offer section, service badges, FAQ, footer, and mobile booking bar have been updated.
